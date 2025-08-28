@@ -7,6 +7,10 @@ function convertirFizzBuzz(n){
     {
         return "Buzz";
     }
+    if(n==15)
+    {
+        return "FizzBuzz";
+    }
     return n+"";
 }
 
