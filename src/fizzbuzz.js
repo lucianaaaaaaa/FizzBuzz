@@ -3,6 +3,10 @@ function convertirFizzBuzz(n){
     {
         return "Fizz";
     }
+    if(n==5)
+    {
+        return "Buzz";
+    }
     return n+"";
 }
 
