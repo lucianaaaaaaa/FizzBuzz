@@ -133,17 +133,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "5a893eefe2e08168b222a5b0d3810e8ae104edc4",
     "author": "lucianaaaaaaa",
     "commit": {
       "date": "2025-08-28T03:19:11.000Z",
       "message": "fix(src): convetir cualquier numero multiplo de 3 y 5 a FizzBuzz",
-      "url": "https://github.com/lucianaaaaaaa/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/lucianaaaaaaa/FizzBuzz/commit/5a893eefe2e08168b222a5b0d3810e8ae104edc4"
     },
     "stats": {
       "total": 11,
       "additions": 7,
       "deletions": 4,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "lucianaaaaaaa",
+    "commit": {
+      "date": "2025-08-28T03:23:16.000Z",
+      "message": "feat: generar toda la secuencia",
+      "url": "https://github.com/lucianaaaaaaa/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 32,
+      "additions": 14,
+      "deletions": 18,
       "date": "2025-08-28"
     },
     "coverage": 100,
