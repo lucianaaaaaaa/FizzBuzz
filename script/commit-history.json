@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ef31d4ef373a046e01c27733e6f85634abffaed6",
     "author": "lucianaaaaaaa",
     "commit": {
       "date": "2025-08-28T03:11:44.000Z",
       "message": "fix(src):deberia convetir cualquier numero que no es multiplo de 3 ni 5",
-      "url": "https://github.com/lucianaaaaaaa/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/lucianaaaaaaa/FizzBuzz/commit/ef31d4ef373a046e01c27733e6f85634abffaed6"
     },
     "stats": {
       "total": 7,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "lucianaaaaaaa",
+    "commit": {
+      "date": "2025-08-28T03:13:18.000Z",
+      "message": "feat(src):deberia convetir un numero 3 a Fizz",
+      "url": "https://github.com/lucianaaaaaaa/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
