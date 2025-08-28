@@ -1,4 +1,8 @@
 function convertirFizzBuzz(n){
+    if(n%3===0 && n%5===0)
+    {
+        return "FizzBuzz";
+    }
     if(n%3===0)
     {
         return "Fizz";
@@ -6,10 +10,6 @@ function convertirFizzBuzz(n){
     if(n%5===0)
     {
         return "Buzz";
-    }
-    if(n==15)
-    {
-        return "FizzBuzz";
     }
     return n+"";
 }

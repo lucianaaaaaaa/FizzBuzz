@@ -25,6 +25,9 @@ describe("Fizzbuzz", () => {
     it("deberia convetir un numero 15 a FizzBuzz", () => {
         expect(convertirFizzBuzz(15)).toEqual("FizzBuzz");
     });
+    it("deberia convetir cualquier numero multiplo de 3 y 5 a FizzBuzz", () => {
+        expect(convertirFizzBuzz(30)).toEqual("FizzBuzz");
+    });
     
 });
  

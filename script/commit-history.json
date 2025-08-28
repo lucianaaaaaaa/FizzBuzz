@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ed7991152b380c42b548b7c36a45304504df0abc",
     "author": "lucianaaaaaaa",
     "commit": {
       "date": "2025-08-28T03:17:27.000Z",
       "message": "feat(src):convetir un numero 15 a FizzBuzz",
-      "url": "https://github.com/lucianaaaaaaa/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/lucianaaaaaaa/FizzBuzz/commit/ed7991152b380c42b548b7c36a45304504df0abc"
     },
     "stats": {
       "total": 9,
@@ -131,5 +131,24 @@
     "test_count": 8,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "lucianaaaaaaa",
+    "commit": {
+      "date": "2025-08-28T03:19:11.000Z",
+      "message": "fix(src): convetir cualquier numero multiplo de 3 y 5 a FizzBuzz",
+      "url": "https://github.com/lucianaaaaaaa/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 7,
+      "deletions": 4,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
