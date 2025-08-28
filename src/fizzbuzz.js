@@ -1,5 +1,5 @@
-function convertirFizzBuzz(){
-    return "1";
+function convertirFizzBuzz(n){
+    return n+"";
 }
 
 export default convertirFizzBuzz;
